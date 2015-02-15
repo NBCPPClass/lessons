@@ -75,6 +75,9 @@ int main(int argc, char* argv[])
 }
 ```
 
+If the above seems like an indecipherable jumble of line noise, an introductory
+session is recommended.
+
 ### OS / Environment / Versions
 
 This class will assume the following base environment:
